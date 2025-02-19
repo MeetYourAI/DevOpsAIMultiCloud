@@ -209,13 +209,15 @@ Managing multi-cloud environments is complex, with constant challenges in deploy
 
 4. Join the developer community to discuss ideas and challenges.***
 
-## 📩 Contact & Support
+## Contact & Support
 
-For inquiries, contributions, or technical support, connect with us through the following channels:📧 **Email**: mflynn1999\@gmail.com\
+For inquiries, contributions, or technical support, connect with us through the following channels:
+
+📧 **Email**: mflynn1999\@gmail.com\
 🌐 **GitHub**:[ Magic Worlds](https://github.com/orgs/MeetYourAI/repositories)\
 🕶 **Twitter (X)**:[ @magicworlds3](https://x.com/magicworlds3)\
 🎮 **YouTube**:[ Magic Worlds TV](https://youtube.com/@magicworldstv)\
 🌍 **Reddit**:[ Play2World](https://www.reddit.com/user/Play2World/)\
 💬 **Telegram**:[ Play2World](https://t.me/Play2World)\
-🏛 **LinkedIn**:[ Magic Worlds](https://www.linkedin.com/company/magic-worlds/)DevOpsAI MultiCloud is transforming cloud automation through AI-powered intelligence, making DevOps faster, smarter, and more secure.
+🏛 **LinkedIn**:[ Magic Worlds](https://www.linkedin.com/company/magic-worlds/)
 ====================================================================================================================================================================================================================
