@@ -187,7 +187,7 @@ Managing multi-cloud environments is complex, with constant challenges in deploy
 
 ## 🤝 Community Contributions
 
-# DevOpsAI MultiCloud is an open-source DevOps automation tool, and we welcome contributions from cloud engineers, DevOps professionals, AI researchers, and security experts.
+DevOpsAI MultiCloud is an open-source DevOps automation tool, and we welcome contributions from cloud engineers, DevOps professionals, AI researchers, and security experts.
 
 ### Ways to Contribute
 
